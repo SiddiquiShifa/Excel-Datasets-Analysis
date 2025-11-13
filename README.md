@@ -1,3 +1,2 @@
 # Excel_Data_files
-
-Cleaned and transformed Olympic dataset using Microsoft Excel and Power Query. Removed null values, corrected unusual entries (like “Japan*”), and calculated percentages through data transformation and formulas.
+Showcased practical Excel skills by cleaning and transforming various datasets, handling missing values, correcting data inconsistencies, and deriving actionable insights through Power Query and advanced Excel formulas.
